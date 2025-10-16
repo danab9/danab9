@@ -9,5 +9,5 @@ I do backend development and data analysis.
 
 ## 🔧 Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,django,djangorestframework,pandas,numpy,pyspark,postgresql,metabase,airflow,docker,linux,git,github,postman&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,django,djangorestframework,pandas,numpy,pyspark,postgresql,metabase,airflow,docker,linux,git,github,postman&theme=light&perline=6)
 
