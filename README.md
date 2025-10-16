@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Dana 
+I do backend development and data analysis.
 
+## 🔧 Skills
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,django,djangorestframework,pandas,numpy,pyspark,postgresql,metabase,docker,linux,git,github,postman&theme=light)
 <!--
 **danab9/danab9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
